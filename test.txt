@@ -1,0 +1,2 @@
+Hello, my name is Céline
+I am trying to write a Map Reduce algorithm
