@@ -1,2 +1,4 @@
-Hello, my name is Céline
+Hello, my name is Céline!
 I am trying to write a Map Reduce algorithm
+How are you doing?
+I need to add similar words to test my Map reduce algorithm
